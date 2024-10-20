@@ -20,7 +20,7 @@ The system consists of a wireless network where multiple devices work together w
 Key components:
 - **Devices**: Perform local optimization steps and transmit updates via AirComp.
 - **Central Server**: Aggregates the transmitted updates to adjust the global variables and broadcasts them back to the devices for further refinement.
-- **Communication**: Utilizes the superposition of wireless signals to achieve efficient data aggregation, leading to significant bandwidth savings compared to traditional methods.
+- **OTA**: Utilizes the superposition of wireless signals to achieve efficient data aggregation, leading to significant bandwidth savings compared to traditional methods.
 
 ### Two Practical Use Cases:
 1. **Smart Grid Energy Management**:
@@ -44,12 +44,12 @@ The system parameters can be adjusted depending on the application scenario:
 - Number of devices
 - Channel fading and noise levels
 - Power constraints
-- Modulation schemes for resource allocation
 
 ## References
 This work is based on the following paper:
 
-**N. A. Mitsiou, P. S. Bouzinis, P. D. Diamantoulakis, R. Schober, G. K. Karagiannidis**, "Accelerating Distributed Optimization via Over-the-Air Computing", arXiv preprint arXiv:2212.14003, December 2022.
+N. A. Mitsiou, P. S. Bouzinis, P. D. Diamantoulakis, R. Schober and G. K. Karagiannidis, "Accelerating Distributed Optimization via Over-the-Air Computing," in IEEE Transactions on Communications, vol. 71, no. 9, pp. 5565-5579, Sept. 2023, doi: 10.1109/TCOMM.2023.3286915.
+keywords: {Optimization;Convergence;Smart grids;Servers;Resource management;Linear programming;6G mobile communication;Over-the-air computing;non-orthogonal multiple access;primal-dual;distributed optimization;subgradient method;6G;large-scale optimization},
 
 ## License
 
