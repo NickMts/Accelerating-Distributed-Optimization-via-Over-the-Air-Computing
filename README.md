@@ -49,7 +49,6 @@ The system parameters can be adjusted depending on the application scenario:
 This work is based on the following paper:
 
 N. A. Mitsiou, P. S. Bouzinis, P. D. Diamantoulakis, R. Schober and G. K. Karagiannidis, "Accelerating Distributed Optimization via Over-the-Air Computing," in IEEE Transactions on Communications, vol. 71, no. 9, pp. 5565-5579, Sept. 2023, doi: 10.1109/TCOMM.2023.3286915.
-keywords: {Optimization;Convergence;Smart grids;Servers;Resource management;Linear programming;6G mobile communication;Over-the-air computing;non-orthogonal multiple access;primal-dual;distributed optimization;subgradient method;6G;large-scale optimization},
 
 ## License
 
